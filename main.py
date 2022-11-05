@@ -13,3 +13,4 @@ def test_count_quantity(kittens, puppies):
     print(quantity)
 
 test_count_quantity(3,3)
+print("It is a joke.")
